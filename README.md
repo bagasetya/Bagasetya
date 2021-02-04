@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-bagasetya.netlify.app
+more at https://bagasetya.netlify.app
